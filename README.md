@@ -1,2 +1,2 @@
 # HactoberFest
-Just a way to win T-shirt
+Create Pull Requests to get free t-shirt
